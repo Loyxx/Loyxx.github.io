@@ -1,1 +1,1 @@
-# Loyxx.http-github.io
+# Loyxx.github.io
